@@ -1,0 +1,92 @@
+{
+  "favrouites": [
+    {
+      "Rid": "18921399",
+      "ResName": "Food  Affair Restaurant",
+      "ResImage": "https://b.zmtcdn.com/data/pictures/9/18921399/31a28c7009cf17dc3c3e4382a77d4da6.jpg?output-format=webp",
+      "ResCuisines": "North Indian, Seafood, Mughlai, Chinese",
+      "ResRating": "3.7",
+      "ResAverage": 500,
+      "ResAddress": "99, Sanjeevani Nagar, Garha, Jabalpur",
+      "Email": "john@gmail.com",
+      "id": 4
+    },
+    {
+      "Rid": "19011215",
+      "ResName": "Nagendra Restaurant",
+      "ResImage": "https://b.zmtcdn.com/data/pictures/5/19011215/c53652a67753e096ff574c028d3487ed.jpg?output-format=webp",
+      "ResCuisines": "North Indian, South Indian, Chinese",
+      "ResRating": "3.7",
+      "ResAverage": 600,
+      "ResAddress": "Opposite Mehta Petrol Pump, Labour Chowk, Wright Town, Jabalpur",
+      "Email": "john@gmail.com",
+      "id": 5
+    },
+    {
+      "Rid": "18746666",
+      "ResName": "RH Chicken Point",
+      "ResImage": "https://b.zmtcdn.com/data/pictures/6/18746666/f92347b1cc102dd098db852fa9419e85.jpg?output-format=webp",
+      "ResCuisines": "North Indian, Fast Food, Mughlai",
+      "ResRating": "4.2",
+      "ResAverage": 350,
+      "ResAddress": "Opposite Garrison Ground, Main Road, Sadar, Cantt, Jabalpur",
+      "Email": "john@gmail.com",
+      "id": 6
+    },
+    {
+      "Rid": "19011215",
+      "ResName": "Nagendra Restaurant",
+      "ResImage": "https://b.zmtcdn.com/data/pictures/5/19011215/c53652a67753e096ff574c028d3487ed.jpg?output-format=webp",
+      "ResCuisines": "North Indian, South Indian, Chinese",
+      "ResRating": "3.7",
+      "ResAverage": 600,
+      "ResAddress": "Opposite Mehta Petrol Pump, Labour Chowk, Wright Town, Jabalpur",
+      "Email": "john@gmail.com",
+      "id": 7
+    },
+    {
+      "Rid": "1400382",
+      "ResName": "Shree Gurukripa",
+      "ResImage": "https://b.zmtcdn.com/data/pictures/chains/5/1400365/6c9dec67b9122ff3e2ffd1225e7ee938.jpg",
+      "ResCuisines": "North Indian",
+      "ResRating": "4.2",
+      "ResAverage": 500,
+      "ResAddress": "13, Chhoti Gwaltoli, Sarwate Bus Stand, Indore",
+      "Email": "Satya@gmail.com",
+      "id": 8
+    },
+    {
+      "Rid": "1402185",
+      "ResName": "Shree Gurukripa",
+      "ResImage": "https://b.zmtcdn.com/data/pictures/chains/5/1400365/4f670988beb5d0d0063aebef97ac9759.jpg",
+      "ResCuisines": "North Indian",
+      "ResRating": "4.0",
+      "ResAverage": 500,
+      "ResAddress": "Opposite Bombay Hospital, Kushabhau Thakre Marg, Vijay Nagar, Indore",
+      "Email": "Satya@gmail.com",
+      "id": 9
+    },
+    {
+      "Rid": "1401685",
+      "ResName": "Dutt Guru Kripa",
+      "ResImage": "https://b.zmtcdn.com/data/pictures/chains/5/1400365/4f670988beb5d0d0063aebef97ac9759.jpg",
+      "ResCuisines": "North Indian, Chinese, Fast Food, Beverages, Desserts",
+      "ResRating": "4.1",
+      "ResAverage": 600,
+      "ResAddress": "G-3 10, South Tukoganj, Indore",
+      "Email": "Satya@gmail.com",
+      "id": 11
+    },
+    {
+      "Rid": "1400382",
+      "ResName": "Shree Gurukripa",
+      "ResImage": "https://b.zmtcdn.com/data/pictures/chains/5/1400365/6c9dec67b9122ff3e2ffd1225e7ee938.jpg",
+      "ResCuisines": "North Indian",
+      "ResRating": "4.2",
+      "ResAverage": 500,
+      "ResAddress": "13, Chhoti Gwaltoli, Sarwate Bus Stand, Indore",
+      "Email": null,
+      "id": 12
+    }
+  ]
+}
