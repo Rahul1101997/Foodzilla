@@ -7,7 +7,7 @@ export default function Header(props) {
   const [search, setsearch] = useState("");
   const [location, setlocation] = useState("");
 
-  //sending data using event to app component
+  //sending  data using event to app component
   async function send() {
     await props.getLatlang(search, location);
   }
